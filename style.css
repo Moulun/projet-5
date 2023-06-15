@@ -1,0 +1,351 @@
+.logo {
+    margin-left: 13%;
+}
+
+
+.container {
+    height: 100%;
+}
+
+
+
+li {
+    display: flex;
+    ;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.menu-nav,
+ul,
+li {
+    display: inline-block;
+    padding: 5px;
+    padding-left: 5px;
+    margin-bottom: 0px;
+}
+
+
+.nav-cont {
+    display: flex;
+    justify-content: center;
+    background-color: rgba(255, 115, 0, 0.925);;
+    width: 100%;
+
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.nav-item {
+
+    transform: translate(-0%, 0%);
+    margin-left:80px;
+    font-size: 30px;
+
+
+}
+
+
+
+
+
+
+.card {
+    transform: translate(90%, 109%);
+    border: none;
+}
+
+.card1 {
+    transform: translate(200%, 10%);
+}
+
+.deuxieme {
+
+    text-align: center;
+
+}
+
+.butt {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+
+}
+
+.fond {
+    display: flex;
+    justify-content: center;
+
+}
+
+
+
+.text {
+    transform: translate(100%, 30%);
+    position: absolute;
+    font-size: 30px;
+
+
+}
+
+.profite {
+    margin-top: 50%;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: orangered;
+    border: none;
+
+}
+
+.logo-tec {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.text2 {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.texte-logo {
+    display: flex;
+    justify-content: center;
+
+
+
+}
+
+
+.btn2 {
+    display: flex;
+}
+
+.cardre {
+    display: flex;
+    justify-content: center;
+    
+
+
+
+}
+
+.orange {
+    color: rgba(255, 115, 0, 0.925);
+
+}
+
+.gris {
+    color: gray;
+    font-size: 20px;
+}
+
+.blanc {
+    color: white;
+}
+
+.blog {
+    color: white;
+    background-color: rgb(75, 8, 8);
+    ;
+}
+
+button {
+    background-color: rgba(255, 115, 0, 0.925);
+    border: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+}
+
+.moto {
+    position: absolute;
+}
+
+
+
+.box {
+    background-color: rgba(199, 199, 199, 0.952);
+    transform: translate(120%, -115%);
+}
+
+.texte5 {
+    display: flex;
+    justify-content: center;
+    transform: translate(2%, 70px);
+
+}
+
+.button-2 {
+    transform: translate(20%, 150%);
+    font-size: 20px;
+
+}
+
+.button-1 {
+    font-size: 30px;
+    margin-left: 0px;
+}
+
+.buut {
+    font-size: 20px;
+}
+
+
+
+.la {
+    background-color: rgba(255, 115, 0, 0.925);
+    transform: translate(0%, -100%)
+}
+
+.la1 {
+    background-color:rgba(255, 115, 0, 0.925);
+    transform: translate(-13%, -140%);
+}
+
+footer {
+    background-color: rgb(68, 68, 68);
+    height: 500px;
+    margin-top: 100px;
+}
+
+.foot {
+    display: flex;
+    transform: translate(17%, 60%);
+    height: 150px;
+}
+
+.foote {
+    transform: translate(40%, 40%);
+    color: white;
+    font-size: 20px;
+}
+
+.footes {
+    display: flex;
+    transform: translate(35%, 600%);
+    font-size: 20px;
+    color: white;
+}
+
+.imgGauche {
+
+    background-image: url("barefoot.jpg");
+    transform: translate(120%, -30%);
+    height: 200px;
+    width: 400px;
+
+
+
+}
+
+.imgDroite {
+
+    background-image: url("sky.jpg");
+    transform: translate(130%, -30%);
+
+    height: 200px;
+    width: 400px;
+}
+
+.barfoot {
+    font-size: 30px;
+    color: white;
+}
+
+.textbarf {
+    margin-top: 20px;
+    color: white;
+}
+
+.Skysurf {
+    color: white;
+    font-size: 30px;
+
+}
+
+.button-10 {
+    margin-top: 20px;
+}
+
+.button-9 {
+    margin-top: 60px;
+}
+
+.grand {
+    font-size: 8000px;
+}
+
+.running {
+    color: rgba(255, 115, 0, 0.925);;
+    font-size: 120px;
+    transform: translate(-50%, -40%);
+}
+
+.runnig {
+    transform: translate(-30%, -350%);
+}
+
+.profite {
+    transform: translate(-80%, -800%);
+}
+
+.camion {
+    transform: translate(25%, 40%);
+}
+
+.pouce {
+    transform: translate(50%, -120%)
+}
+
+.texte6 {
+    transform: translate(15%, 120%);
+}
+
+.att {
+    transform: translate(50%, 30%);
+}
+
+.image-head {
+    background-image: url("header.jpg");
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+}
+.milieu{
+    margin-top: 20px;
+    background-image: url("equipement.jpg");
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+}
+.fin{
+    background-image: url("savoir.jpg");
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+    margin-top: 50px;
+    
+}
+.box{
+    transform: translate(140%,-140%);
+}
+.le{
+    margin-top: -300px;
+}
+.finito{
+    color:rgba(255, 115, 0, 0.925);
+    transform: translate(46%,-200%);
+}
